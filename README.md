@@ -2,4 +2,4 @@
 
 Capstone Project 1 - Online Resume
 
-This Project includes only HTML. No CSS/JavaScript Implemented here.
+This Project includes only HTML5. No CSS/JavaScript Implemented here.
